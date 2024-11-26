@@ -2,12 +2,18 @@ Overview
 "Battle of Races" is a text-based combat game where players select a character race and engage in turn-based battles against an AI opponent. The game features three unique races—Monkey, Bristleback, and Werewolf—each with distinct abilities and strategies. Players can attack, defend, or heal during their turn, while the AI makes strategic choices based on its race and the current game state.
 
 Features
+
 Three Playable Races:
 
+
 Monkey: Focuses on offense with a chance to debuff enemy attacks.
+
 Bristleback: Specializes in defense and retaliates damage based on its armor.
+
 Werewolf: Gains healing and enhanced attack power during the full moon.
+
 Turn-Based Combat: Players and AI take turns to perform actions, creating a strategic gameplay experience.
+
 
 Dynamic AI: The AI makes decisions based on its race, current health, and game conditions, providing a challenging opponent.
 
